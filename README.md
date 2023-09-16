@@ -12,4 +12,4 @@ The current software turns this into a tap light that you buy from Amazon for $2
 
 - v1 (white): The RGB LED leads are close together, so not bridging the contacts is difficult for a beginner. Also, The button goes to Reset, and not an input (although code could change fix that). PB0: Red, PB1: Green, PB4: Blue, Swith = Reset
 - v2 (blue): The RBG LED leads are spaced farther apart to make it easier for beginners. The button goes to PB4, but that shares with the Blue LED (oops - code could fix that also). PB0: Red, PB1: Green, PB4: Blue, Switch = PB4
-- v2.1 (??): Moved the Switch to PB3 and change the battery to something with a higher voltage. 
+- v2.1 (??): Moved the Switch to PB3 and removed the battery.
