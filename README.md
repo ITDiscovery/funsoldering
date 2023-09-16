@@ -1,7 +1,9 @@
 # funsoldering
 This code is for the Fun Soldering circuit boards. RGB LED and 2d6 are here.
 
-The CR1220 batteries are kinda a pain to find, and at 3 volts, by the time you get output voltage, it won't really turn on a blue led. It runs great off USB pins 4 and 8 and the diode is there to protect sending voltage to the battery when it's installed. If your buying LEDs, make sure they are common cathode!!
+## RGBLED Board
+
+The CR1220 batteries are kinda a pain to find, and at 3 volts, by the time you get output voltage, it won't really turn on a blue led, so that got removed. It runs great off USB or 3 AAA batteries on pins 4 and 8 If your buying LEDs, make sure they are common cathode!!
 
 These ATTiny85s can be reprogrammed via using an Arduino Uno right on the board. Here are some instructions: 
 https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/
