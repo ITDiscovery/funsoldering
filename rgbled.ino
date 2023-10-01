@@ -1,8 +1,8 @@
 #include <EEPROM.h>
 
 #define red 0 //PIN 5
-#define blue 1 //PIN 6
-#define green 2 //PIN 7 - Not a PWM Pin
+#define blue 1 //PIN 6 - Not a PWM Pin
+#define green 2 //PIN 7 
 #define buttonPin 3 //PIN 3
 
 //Version 1 Board Pinout
